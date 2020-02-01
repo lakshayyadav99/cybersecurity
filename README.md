@@ -10,8 +10,11 @@ Prerequisties
   Some of the things you need to install in your system.
    
    > python 2 And python 3
+   
    > pip 
+   
    > scapy module
+   
    > netfilterqueue
    
 Installing 
